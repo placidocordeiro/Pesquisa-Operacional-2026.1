@@ -1,0 +1,28 @@
+# Executáveis compilados (questao2)
+questao2/01_racao
+questao2/02_dieta
+questao2/03_plantio
+questao2/04_tintas
+questao2/05_transporte
+questao2/06_fluxo_maximo
+questao2/07_enfermeiras
+questao2/08_cobertura
+questao2/09_mochila
+questao2/10_clique
+questao2/11_padroes
+questao2/12_facilidades
+questao2/13_frequencia
+
+# Arquivos objeto
+*.o
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
